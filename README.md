@@ -30,3 +30,5 @@ kaggle competitions download -c spaceship-titanic
 - 各种豪华设施是否是等价的而没有排名次序的
 - 乘客姓名是否无用
 
+## 总流程
+数据集获取 &rarr; 特征工程 &rarr; 模型选择 &rarr; 模型训练 &rarr; 模型评估 &rarr; 模型调优 &rarr; 模型融合
