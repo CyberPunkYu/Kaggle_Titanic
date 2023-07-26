@@ -1,0 +1,10 @@
+id,trans,age
+boy,TRUE,10
+boy,TRUE,20
+boy,FALSE,30
+girl,FALSE,40
+girl,FALSE,50
+girl,FALSE,60
+no,FALSE,10
+no,FALSE,30
+no,TRUE,50
